@@ -32,7 +32,7 @@ https://br.financas.yahoo.com/quote/PETR4.SA/
 `webbrowser` -> serve para abrir o navegador
 
 
-## CONTATO
+## Contato
 
 
 - **Email:** analistadesistemasedilson@gmail.com
